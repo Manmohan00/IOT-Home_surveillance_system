@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208971016355",
+    "firebase_url": "https://surveillance-d050d-default-rtdb.firebaseio.com",
+    "project_id": "surveillance-d050d",
+    "storage_bucket": "surveillance-d050d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208971016355:android:dd2679bedc03448b177716",
+        "android_client_info": {
+          "package_name": "com.example.digital_eye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208971016355-8b2he1873i81v5vkviehue9kicg2oncs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIow6t7d9gnvWfKpJans915PiorWdBv6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208971016355-8b2he1873i81v5vkviehue9kicg2oncs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
